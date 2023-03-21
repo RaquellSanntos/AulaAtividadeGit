@@ -8,6 +8,7 @@ public class CompartilharGit {
 		 List<Aluno> alunos = new ArrayList<>();
 		 //Coloque seu nome e turma dentro das aspas duplas,exemplo:
 		 alunos.add(new Aluno("Raquel Sanntos - tutora"));
+		 alunos.add(new Aluno("Allan - ALUNO 1º PERÍODO"));
 		
 
 	        SorteadorDeAlunos sorteador = new SorteadorDeAlunos(alunos);
